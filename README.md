@@ -1,3 +1,5 @@
+A simple mock-page of ICT-ACK Home page. 
+
 Technologies Used:
 HTML5,CSS3
 
